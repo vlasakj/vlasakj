@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋Jan Vlasák</h1>
+<h1 align="center">Hey, welcome to my profile 👋Jan Vlasák</h1>
 
 ###
 
